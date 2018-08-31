@@ -1,5 +1,5 @@
 /**
- * Author: Jake Long, Luke Downs
+ * Author: Luke Downs, Jake Long
  * Date: 2018/08/27
  *
  * A simple hello world program in C
